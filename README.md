@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThanhHuyen2212.
 - 👀 I’m a student in SGU (Sai Gon University).
 - 🌱 I’m currently majoring in software engineering.
-- 💞️ I’m interested in web developing and BA (business analysis).
+- 💞️ I’m interested in BA (business analysis).
 - 📫 How to reach me: facebook: https://www.facebook.com/huyennguyen221202/
 
 <!---
